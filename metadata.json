@@ -1,0 +1,6 @@
+{
+  "name": "BigCat Wireless",
+  "description": "Interactive showcase and product portfolio for BigCat Wireless - 5G O-RU, 5G Test Equipment, and Defense SDR Solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
